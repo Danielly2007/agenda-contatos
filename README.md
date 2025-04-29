@@ -1,7 +1,10 @@
 # Agenda de Contatos
  
 Um app React simples para gerenciar sua lista de contatos diretamente no navegador.
- 
+
+## Link do Site
+[Acessar](https://danielly2007.github.io/agenda-contatos/)
+
 ## Funcionalidades
  
 - 📋 **Listar** contatos  
@@ -18,4 +21,7 @@ Um app React simples para gerenciar sua lista de contatos diretamente no navegad
 - Bootstrap 4/5  
 - LocalStorage  
  
-## Link do Site
+## 👩‍💻 Criado por
+
+Danielly - [@danielly2007](https://github.com/danielly2007)
+Ana Cariele - [@cary2332](https://github.com/cary2332)
