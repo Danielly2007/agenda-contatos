@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crud-contatos/static/css/main.3ce7bc41.css",
+    "main.js": "/crud-contatos/static/js/main.0e7bf5f9.js",
+    "index.html": "/crud-contatos/index.html",
+    "main.3ce7bc41.css.map": "/crud-contatos/static/css/main.3ce7bc41.css.map",
+    "main.0e7bf5f9.js.map": "/crud-contatos/static/js/main.0e7bf5f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ce7bc41.css",
+    "static/js/main.0e7bf5f9.js"
+  ]
+}
