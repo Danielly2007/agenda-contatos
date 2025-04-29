@@ -2,7 +2,7 @@
   "name": "crud-contatos",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://danielly2007.github.io/agenda-contatos/",
+  "homepage": "https://danielly2007.github.io/agenda-contatos",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
